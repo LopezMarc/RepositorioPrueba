@@ -1,3 +1,1 @@
-print("hola mundo, he modificado desde github!")
-for i in range(0, 50):
-    print("No copiare en clase de programacion")
+VimCrypt~03!›ö²…–Fî‰§æYüÙy:h!·–<í¿Í&IfˆÍyÜöYyÓ?:WU•Ó7!££æ½eV6Ö¸éHÅÏ¿T§Ý-[`ýÝ±,–ÉB±À1 ü—Q¯ÏàNxº+$c›¹`tÊdÚ0wUNÏMXzÇº§ÜH–Ã‡ôpœóÉ‹€žfø
